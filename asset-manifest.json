@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/poonam9009/ToDo.git/static/css/main.fd01f0ec.chunk.css",
+    "main.js": "/poonam9009/ToDo.git/static/js/main.c8e7eebc.chunk.js",
+    "main.js.map": "/poonam9009/ToDo.git/static/js/main.c8e7eebc.chunk.js.map",
+    "runtime-main.js": "/poonam9009/ToDo.git/static/js/runtime-main.6c4b82e1.js",
+    "runtime-main.js.map": "/poonam9009/ToDo.git/static/js/runtime-main.6c4b82e1.js.map",
+    "static/js/2.ccbbd2f3.chunk.js": "/poonam9009/ToDo.git/static/js/2.ccbbd2f3.chunk.js",
+    "static/js/2.ccbbd2f3.chunk.js.map": "/poonam9009/ToDo.git/static/js/2.ccbbd2f3.chunk.js.map",
+    "index.html": "/poonam9009/ToDo.git/index.html",
+    "precache-manifest.bee8d4944cfea47d2a09527d984743c2.js": "/poonam9009/ToDo.git/precache-manifest.bee8d4944cfea47d2a09527d984743c2.js",
+    "service-worker.js": "/poonam9009/ToDo.git/service-worker.js",
+    "static/css/main.fd01f0ec.chunk.css.map": "/poonam9009/ToDo.git/static/css/main.fd01f0ec.chunk.css.map",
+    "static/js/2.ccbbd2f3.chunk.js.LICENSE.txt": "/poonam9009/ToDo.git/static/js/2.ccbbd2f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c4b82e1.js",
+    "static/js/2.ccbbd2f3.chunk.js",
+    "static/css/main.fd01f0ec.chunk.css",
+    "static/js/main.c8e7eebc.chunk.js"
+  ]
+}
